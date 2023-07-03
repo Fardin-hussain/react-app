@@ -5,7 +5,9 @@ const Footer = () => {
     return(
         <>
             <footer>
-            <p>Copyright @ {year}</p>
+            <p>Copyright @ {year} not</p>
+            <p>Copyright @ {year} not</p>
+            <h1>Copyright @ {year} not</h1>
             </footer>
         </>
     )
